@@ -1,4 +1,4 @@
-# Clase 4 - Introducción de Docker 
+# Clase 4 - SI HACE FALTA ALGO PENDIENTE ME LO HACE SABER PARA CUMPLIR MUCHAS GRACIAS POR EL APOYO
 
 ## Docker
 
@@ -22,10 +22,4 @@ Y que comience el RETO!
 
 ### -------------------------------------------------
 
-⌨️ con ❤️ por [roxsross](https://github.com/roxsross) 😊
 
-No olvides revisar mi blog [roxsross](https://blog.295devops.com) 😊
-
-y mi linktree [roxsross](https://roxs.295devops.com) 😊
-
-"No se trata de cambiar el mundo, creo que creas un cambio pequeño, pero que te importe estás cambiando las cosas".
